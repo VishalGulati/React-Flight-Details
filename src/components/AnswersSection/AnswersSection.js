@@ -19,7 +19,6 @@ class AnswersSection extends Component {
     }
   
     handleSubmit(event) {
-      alert('An essay was submitted: ' + this.state.value);
       event.preventDefault();
     }
   

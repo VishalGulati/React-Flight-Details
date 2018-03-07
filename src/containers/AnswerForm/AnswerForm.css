@@ -7,3 +7,24 @@
 .answers-form label + label {
     margin-left: 20px;
 }
+
+.answers-form textarea {
+    width: 100%;
+}
+
+.charcount {
+    color: gray;
+    font-style: italic;
+}
+
+.help-block { 
+    color: red;
+}
+
+.red {
+    border-color: red;
+}
+
+.normal {
+    border-color: green;
+}

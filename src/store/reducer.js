@@ -5,7 +5,7 @@ const initialState = {
         count: 0,
         name: 'Vishal Gulati',
         email: 'vishal.rvg@gmail.com',
-        answerText: 'Sample answer by Vishal Gulati. Sample answer by Vishal Gulati. Sample answer by Vishal Gulati. Sample answer by Vishal Gulati.'
+        answerText: 'Sample answer by Vishal Gulati. Sample answer by Vishal Gulati. Sample answer by Vishal Gulati. Sample answer by Vishal Gulati. Sample answer by Vishal Gulati. Sample answer by Vishal Gulati. Sample answer by Vishal Gulati.'
     }]
 };
 

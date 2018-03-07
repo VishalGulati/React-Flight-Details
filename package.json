@@ -7,10 +7,12 @@
     "bootstrap": "^4.0.0",
     "gh-pages": "^1.1.0",
     "react": "^16.2.0",
+    "react-bootstrap": "^0.32.1",
     "react-dom": "^16.2.0",
     "react-redux": "^5.0.7",
     "react-scripts": "1.1.1",
-    "redux": "^3.7.2"
+    "redux": "^3.7.2",
+    "validator": "^9.4.1"
   },
   "scripts": {
     "start": "react-scripts start",

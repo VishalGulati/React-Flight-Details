@@ -9,7 +9,7 @@ class Question extends Component {
                     How to change color of vector drawable path on button click?
                 </h1>
                 <h6 className="question-autor">
-                    Asked by Vishal Gulati
+                    Asked by Vishal Gulati. 14 hours 36 mins ago
                 </h6>
                 <h5>
                     Unlock the Power of Web Components. Polymer is a JavaScript library that helps you 

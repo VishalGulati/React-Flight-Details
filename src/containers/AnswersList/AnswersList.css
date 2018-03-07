@@ -10,3 +10,12 @@
 .answer {
     margin: 15px 0;
 }
+
+.answer-metadata {
+    color: royalblue;
+    font-weight: bold;
+}
+
+.category-span {
+    color: black;
+}

@@ -20,6 +20,9 @@ class AnswersList extends Component {
                         <div className="answer-text">
                             {answer.answerText}
                         </div>
+                        <div className="answer-metadata">
+                            18 comments | blog this | <span className="category-span">category:</span> links
+                        </div>
                     </div>
                 </div>
             }

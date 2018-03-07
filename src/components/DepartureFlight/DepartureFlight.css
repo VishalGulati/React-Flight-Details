@@ -1,0 +1,86 @@
+.DepartureFlight {
+    color: gray;
+}
+
+.DepartureFlight p {
+    margin: 0;
+}
+
+.DepartureFlight .col-xs-12 {
+    margin: 8px 0;
+}
+
+.flight-info {
+    color: black;
+    padding: 0;
+}
+
+.flight-type {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.flight-place {
+    background-color: #4286f4;
+    padding: 8px 12px;
+    border-radius:4px;
+    color: white;
+    font-weight: bold;
+}
+
+.flight-duration {
+    float: right;
+}
+
+.flight-logo {
+    clear: both;
+    margin: 15px 0;
+}
+
+.flight-logo img {
+    width: 50px;
+    height: auto;
+}
+
+.flight-code {
+    margin-top: 5px;
+}
+
+.flight-timings, .radio label {
+    font-size: 17px;
+}
+
+.flight-timings .col-xs-4{
+    padding: 0
+}
+
+.start-time, .time-radio {
+    color: black;
+    font-weight: bold;
+}
+
+.col-middle.col-xs-4 {
+    padding: 0 10px;
+    text-align: center;
+}
+
+.left-major {
+    float: left;
+}
+
+.right-major {
+    float: right;
+}
+
+.time-travel{
+    margin: 0 auto;
+}
+
+.baggage-warning .col-xs-6 {
+    padding: 0;
+    margin: 5px 0;
+}
+
+.radio label span + span {
+    margin-left: 10px;
+}
